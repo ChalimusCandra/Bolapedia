@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 data/**/*.csv
+
+venv/
+
+vectorstore/
